@@ -41,14 +41,6 @@
 
     },
 
-    "API_KEY": {
-
-      "description": "Heroku api key",
-
-      "required": false
-
-    },
-
     "OWNER_ID": {
 
       "description": "who will use this bot",
